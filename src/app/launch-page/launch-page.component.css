@@ -1,0 +1,27 @@
+.example-card {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.example-header-image {
+  background-size: cover;
+  text-align: center;
+  background-color: transparent;
+  color: #3f51b5;
+}
+
+.example-header-image .material-icons{
+  font-size: 40px;
+  margin-top: 1px;
+}
+
+.form-tab{
+  width: 100%;
+}
+
+.form-tab input,.form-tab md-input-container{
+  width: 100%;
+}
+
+input[type='password']{
+}
